@@ -1,5 +1,0 @@
-{
-  "routes": [
-    { "src": "/(.*)", "dest": "http://localhost:" + process.env.PORT }
-  ]
-}
